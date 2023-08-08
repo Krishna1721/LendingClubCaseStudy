@@ -33,7 +33,7 @@
 - Default ratio with respect to Grade
 - Default ratio with respect to purpose
 - Default ratio with respect to Home ownership
-- Box plot of interest rate	and loan status
+- Box plot of interest rate	and loan status 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
