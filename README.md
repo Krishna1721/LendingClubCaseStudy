@@ -1,6 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Lending Loan
+> The Loan Repayment Analysis Project is aimed at developing a comprehensive framework for assessing and predicting loan repayment behavior, enabling informed and data-driven decisions in the loan approval process. By leveraging advanced data analysis, machine learning techniques, and risk assessment methodologies, this project seeks to minimize financial risk and optimize lending strategies.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,38 +10,43 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Loan Approval Criteria Identification: The primary goal of this project is to determine the criteria or factors that indicate a higher likelihood of loan repayment. Through rigorous analysis of historical loan data, we aim to identify key attributes that are strongly correlated with successful loan repayment.
+
+- Risk Assessment and Categorization: Utilizing consumer and loan attributes, the project aims to build a robust risk assessment model that categorizes loan applicants into low, medium, or high-risk segments. This model will provide valuable insights for making informed decisions on loan approvals, loan amounts, and interest rates.
+
+- Default Prediction Model: We endeavor to develop a predictive model that accurately forecasts the likelihood of loan default. By leveraging machine learning algorithms, the model will analyze applicant attributes and assign a probability of default, aiding in the loan approval decision-making process.
+
+- Portfolio Management and Insights: Through in-depth analysis of loan data, the project aims to gain insights into the performance of various loan products and consumer segments. This will facilitate informed decisions regarding portfolio diversification, targeted marketing, and product development strategies.
+
+- Policy and Process Optimization: By evaluating existing loan approval policies and processes, the project seeks to identify areas for improvement. The analysis results will guide refinements to minimize default risk, enhance efficiency, and optimize the loan approval process.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Default ratio with respect to Issue Year
+- Default ratio with respect to Verification Status
+- Default ratio with respect to address state
+- Default ratio with respect to the employee work age
+- Default ratio with respect to Sub Grade
+- Categories of loan
+- Default ratio with respect to annual Income
+- Default ratio with respect to Grade
+- Default ratio with respect to purpose
+- Default ratio with respect to Home ownership
+- Box plot of interest rate	and loan status
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Data Understanding
+- Data Cleaning
+- Univariate Analysis
+- Bivariate Analysis
+- Matplotlib
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
